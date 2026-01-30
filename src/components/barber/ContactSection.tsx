@@ -2,7 +2,7 @@ import { Clock, MapPin, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ContactSection = () => {
-  const whatsappNumber = "+212600000000";
+  const whatsappNumber = "+212608465739";
   const whatsappMessage = encodeURIComponent("Bonjour, je souhaite réserver une coupe chez 99 Barber");
 
   const hours = [
@@ -46,7 +46,7 @@ const ContactSection = () => {
               >
                 <Button size="lg" className="w-full sm:w-auto bg-[#25D366] hover:bg-[#128C7E] text-white">
                   <Phone className="w-5 h-5 mr-2" />
-                  +212 6 00 00 00 00
+                  +212 6 08 46 57 39
                 </Button>
               </a>
             </div>
