@@ -64,7 +64,7 @@ const ContactSection = () => {
                     Kenitra 14000, Maroc
                   </p>
                   <p className="text-muted-foreground text-sm mt-2" dir="rtl">
-                    ١٢٣ شارع محمد الخامس، الدار البيضاء
+                  4 شارع ابن تمام القنيطرة 14000، المغرب
                   </p>
                 </div>
               </div>
