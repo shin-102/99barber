@@ -5,7 +5,7 @@ import Logo from "/99barber_logo_nobg.png"
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const whatsappNumber = "+212600000000";
+  const whatsappNumber = "+212608465739";
   const whatsappMessage = encodeURIComponent("Bonjour, je souhaite réserver une coupe chez 99 Barber");
 
   const navLinks = [
